@@ -1,0 +1,17 @@
+{
+    "name": "songzw\/hello-world",
+    "description": "hello world sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "songzw",
+            "email": "songzw1024@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Songzw\\HelloWorld\\": "src"
+        }
+    }
+}
