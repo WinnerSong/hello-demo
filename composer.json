@@ -8,7 +8,9 @@
             "email": "songzw1024@163.com"
         }
     ],
-    "require": {},
+    "require": {
+        "songzw/hello":"2.*"
+    },
     "autoload": {
         "psr-4": {
             "Songzw\\HelloWorld\\": "src"
